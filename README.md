@@ -1,4 +1,4 @@
-Generates random words. You can choose parts of speech from the list below with boolean operator support. Variable names suck, and use of classes suck too but I made this only a few weeks into learning to code.
+Generates random words. You can choose parts of speech from the list below with boolean operator support.
 
 Acceptable parts of speech:
     verb
